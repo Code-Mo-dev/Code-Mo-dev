@@ -4,7 +4,7 @@
 
 </div>
 
-<h2 align="center">👋 Hi, I'm Mohamed Shaapan</h2>
+<h2 align="center">👋 Hi, I'm Mohamed Shaaban</h2>
 
 <p align="center">
   🚀 Front-End Developer | 🎥 Content Creator | 🎓 Founder of a <a href="https://youtube.com/@code_mo_academy?si=cPC6xabZg5DRCUmV"> Code Mo Academy </a> 
